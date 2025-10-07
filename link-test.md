@@ -1,0 +1,4 @@
+- colorcodedlyrics.com
+- https://colorcodedlyrics.com
+- <colorcodedlyrics.com>
+- <https://colorcodedlyrics.com>
