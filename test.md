@@ -43,3 +43,6 @@ iris[iris$Sepal.Length > 7,]
 | 131 |          7.4 |         2.8 |          6.1 |         1.9 | virginica |
 | 132 |          7.9 |         3.8 |          6.4 |         2.0 | virginica |
 | 136 |          7.7 |         3.0 |          6.1 |         2.3 | virginica |
+
+
+![](image/dammu.png)
